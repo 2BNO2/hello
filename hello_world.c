@@ -3,6 +3,7 @@
 int main(void)
 {
 	printf("hello_world");
+	printf("auto build");
 
 	return 0;
 }
